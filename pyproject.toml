@@ -1,0 +1,2 @@
+[tool.poetry.dependencies]
+typed-ast = "~1.4.1"

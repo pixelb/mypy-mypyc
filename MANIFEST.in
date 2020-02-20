@@ -1,0 +1,8 @@
+recursive-include scripts *
+recursive-include test-data *
+recursive-include extensions *
+recursive-include docs *
+recursive-include mypy/typeshed *.py *.pyi
+recursive-include mypy/xml *.xsd *.xslt *.css
+include mypy_self_check.ini
+include LICENSE

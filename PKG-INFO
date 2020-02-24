@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mypy-mypyc
-Version: 0.660
+Version: 0.661
 Summary: Optional static typing for Python
 Home-page: http://www.mypy-lang.org/
 Author: Jukka Lehtosalo
